@@ -20,6 +20,9 @@ yarn dev
 # Tailwind CSS as a Development Dependency
 yarn add -D @nuxtjs/tailwindcss
 
+# Generate tailwind.config.js
+npx tailwindcss init
+
 # Pinia as a development and regular dependency for state management
 yarn add -D @pinia/nuxt
 yarn add pinia
@@ -32,5 +35,4 @@ yarn add -D c8
 
 # Add uuid as regular dependency
 yarn add uuid
-
 ```
