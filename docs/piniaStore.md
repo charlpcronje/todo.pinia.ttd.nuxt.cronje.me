@@ -188,4 +188,4 @@ describe("runs",() => {
 
 Running yarn test with this code results in the following output
 
-![Test Resutls](./assets/testOutput.png)
+![Test Results](./assets/testOutput.png)
